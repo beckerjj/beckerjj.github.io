@@ -54,5 +54,19 @@ var Places = [
 	    "longitudeMinutes":-44.825,
 	    "latitude":44,
 	    "latitudeMinutes":19.173
+	},
+	{
+	    "name":"Jeff Tree",
+	    "longitude":-90,
+	    "longitudeMinutes":-45.349,
+	    "latitude":44,
+	    "latitudeMinutes":16.026
+	},
+	{
+	    "name":"Josh Tree",
+	    "longitude":-90,
+	    "longitudeMinutes":-45.348,
+	    "latitude":44,
+	    "latitudeMinutes":16.144
 	}
 ];
